@@ -1,6 +1,0 @@
-/build/
-/prefix/
-target/
-Cargo.lock
-**/*.rs.bk
-*.pdb
